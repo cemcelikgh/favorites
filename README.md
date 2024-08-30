@@ -1,6 +1,7 @@
-# most-popular-kodluyoruz-patika
-Patika.dev CSS Ödev 1
+# favorites
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Favorites
 
-https://www.patika.dev https://kodluyoruz.org/tr/kodluyoruzk
+Browse: <https://cemcelikgh.github.io/favorites/>
 
-![most-popular-kodluyoruz-patika](https://images2.imgbox.com/1f/bf/zBrreHvE_o.jpg)
+[![Favorites Preview](./assets/favorites-preview.jpg "Browse Favorites")](https://cemcelikgh.github.io/favorites/)
